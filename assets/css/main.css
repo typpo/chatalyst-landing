@@ -1070,7 +1070,7 @@
 
 	body {
 		background: #252122;
-		background-image: url("images/bg02.png");
+		/*background-image: url("images/bg02.png");*/
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
 		color: #5d5d5d;
@@ -1655,9 +1655,9 @@
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #CCE8F4 url("http://i.imgur.com/rXuIeec.jpg");
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: cover;
 		background-repeat: no-repeat;
 		text-align: center;
 	}
@@ -1698,7 +1698,7 @@
 			top: 0;
 			left: 0;
 			width: 100%;
-			background: url("images/bg01.png");
+			/*background: url("images/bg01.png");*/
 			background-size: 100% 100%;
 			z-index: 0;
 			opacity: 0.1;
@@ -1719,7 +1719,7 @@
 			top: 0;
 			left: 0;
 			width: 100%;
-			background: url("images/bg01.png");
+			/*background: url("images/bg01.png");*/
 			background-size: 100% 100%;
 			z-index: 0;
 			opacity: 0.5;
@@ -1882,7 +1882,7 @@
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 4.5em 0 4em 0;
+				/*padding: 4.5em 0 4em 0;*/
 			}
 
 			#main-wrapper {
@@ -2386,7 +2386,7 @@
 				width: 275px;
 				z-index: 10002;
 				color: #858484;
-				background-image: url("images/bg02.png");
+				/*background-image: url("images/bg02.png");*/
 				box-shadow: inset -3px 0px 5px 0px rgba(0, 0, 0, 0.35);
 			}
 
