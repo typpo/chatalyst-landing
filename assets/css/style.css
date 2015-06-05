@@ -1,0 +1,54 @@
+.main_container {
+  margin: 0 auto;
+  width: 80%;
+  border: 1px solid black;
+}
+
+h1 {
+  color: rgb(255,0,255);
+}
+
+.column {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.col_1 {
+  background: #0f0;
+  width: 60%;
+}
+
+.col_2 {
+  background: rgb(0,255,255);
+  width: 35%;
+}
+
+.content-box {
+  border: 1px solid black;
+  margin: 25px;
+}
+
+.videobox {
+  height: 400px;
+}
+
+.statsbox {
+  height: 170px;
+}
+
+.agendabox {
+  height: 330px;
+}
+
+.agenda-item {
+  height: 33px;
+}
+
+.chatbox {
+  height: 240px;
+}
+
+.enter-chat {
+  border: 1px solid black;
+  height: 24px;
+}
